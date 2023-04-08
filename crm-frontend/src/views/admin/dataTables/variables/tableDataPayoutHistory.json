@@ -1,0 +1,26 @@
+[
+  {
+    "payee":"Andrew Gullaume",
+    "amount": "$140.00",
+    "datePaid" : "11/30/2022",
+    "actions": ""  
+  },
+  {
+    "payee":"CRISTIAN BACA",
+    "amount": "$140.00",
+    "datePaid" : "11/25/2022",
+    "actions": ""  
+  },
+  {
+    "payee":"UZZA TAVERAN",
+    "amount": "$140.00",
+    "datePaid" : "11/30/2022",
+    "actions": ""  
+  },
+  {
+    "payee":"BRIAN ASIM",
+    "amount": "$140.00",
+    "datePaid" : "11/30/2022",
+    "actions": ""  
+  }
+]

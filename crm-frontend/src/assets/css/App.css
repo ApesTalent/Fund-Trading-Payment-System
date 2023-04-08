@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+
+body {
+  font-family: "DM Sans", sans-serif;
+}
+
+option {
+  color: white;
+}
+
+th div {
+  text-transform: capitalize;
+  display: block;
+}
+
+.sigCanvas {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 10px;
+  background-color: #0b1437;
+}
+
+.retryButton {
+  width: 15px;
+  position: relative;
+  filter: invert(100%);
+}
+
+.MuiPaper-elevation2 {
+  box-shadow: unset !important;
+}
+
+.MuiTable-root {
+  background-color: #111c44 !important;
+  color: white !important;
+  border-bottom: "none" !important;
+}
+
+.MuiToolbar-root {
+  background-color: #111c44;
+}
+
+.MuiSelect-select {
+  color: white !important;
+}
+
+.MuiSelect-icon {
+  color: white !important;
+}
+
+.MuiIconButton-root {
+  color: white !important;
+}
+
+.MuiTypography-caption {
+  color: white !important;
+}
+
+.MuiTableCell-root {
+  color: white !important;
+  border: none !important;
+}
+
+.MuiIconButton-colorInherit {
+  margin: auto !important;
+}
+
+
+#pdf {
+  text-align: center;
+}
+
+#pdf canvas {
+  border: 1px solid black;
+  width: 95%;
+}
+
+.invoice-modal {
+  -webkit-padding-start: 0.75rem !important;
+}
+
+tr[mode^="add"] {
+  border-bottom: 1px solid white !important;
+}
+
+tr[mode^="add"] input {
+  color: white !important;
+}
